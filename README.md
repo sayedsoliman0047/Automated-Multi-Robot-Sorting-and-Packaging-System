@@ -71,7 +71,13 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ### 🔹 Control Logic (Ladder Diagram)
 ![Logic 1](1.png)  
-![Logic 2](4.png)
+![Logic 2](2.png)
+![Logic 3](3.png)  
+![Logic 4](4.png)
+![Logic 5](5.png)  
+![Logic 6](6.png)
+![Logic 7](7.png)  
+![Logic 8](8.png)
 
 ### 🔹 Factory I/O Simulation
 ![Scene](scene.png)
