@@ -1,5 +1,4 @@
 # Automated-Multi-Robot-Sorting-and-Packaging-System
-# Multi-Robot Color Detection & Precision Batching System
 
 ## 📌 Project Overview
 This project demonstrates an advanced industrial automation cell for **color-based sorting and precision batching**.
@@ -28,7 +27,6 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
    - High-speed Pop-up Wheel Sorter directs items based on color:
      - Left path
      - Right path
-     - Forward path  
 
 3. **Parallel Robotic Handling**
    - Two independent robotic stations operate simultaneously:
@@ -98,10 +96,3 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 6. Start system from control panel  
 
 ---
-
-## 💡 Engineering Insight
-This project simulates a real-world **multi-robot industrial production cell**, combining:
-- High-speed sorting
-- Vision-based decision making
-- Parallel robotic automation
-- Real industrial safety logic
