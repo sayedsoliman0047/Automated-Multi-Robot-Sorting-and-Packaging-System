@@ -85,7 +85,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 ---
 
 ## 🎥 Demo Video
-👉 [Watch full system demonstration](vedio.mp4)
+👉 [Watch full system demonstration](video.mp4)
 
 ---
 
