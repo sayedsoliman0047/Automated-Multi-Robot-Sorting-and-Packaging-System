@@ -1,6 +1,6 @@
 # Automated-Multi-Robot-Sorting-and-Packaging-System
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an advanced industrial automation cell for **color-based sorting and precision batching**.
 
 The system integrates a high-speed **Pop-up Wheel Sorter** with dual **Two-Axis Pick & Place robots**, enabling real-time classification and distribution of products into dedicated batching zones.
@@ -9,7 +9,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **PLC Programming:** Siemens TIA Portal (S7-1200)  
 - **Simulation:** Factory I/O (Custom Scene)  
 - **Robotics:** Dual Two-Axis Pick & Place with Vacuum Grippers  
@@ -18,7 +18,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## ⚙️ System Workflow
+##  System Workflow
 
 1. **Color Detection**
    - Vision sensors identify product color (Blue / Green) at entry point  
@@ -43,7 +43,7 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 🧠 Technical Highlights
+##  Technical Highlights
 
 - **Multi-Robot Coordination**
   - Parallel execution of two robotic cells within one PLC system  
@@ -62,12 +62,12 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
-### 🔹 System Configuration
+###  System Configuration
 ![Driver Setup](0.png)
 
-### 🔹 Control Logic (Ladder Diagram)
+###  Control Logic (Ladder Diagram)
 ![Logic 1](1.png)  
 ![Logic 2](2.png)
 ![Logic 3](3.png)  
@@ -77,17 +77,17 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 ![Logic 7](7.png)  
 ![Logic 8](8.png)
 
-### 🔹 Factory I/O Simulation
+###  Factory I/O Simulation
 ![Scene](scene.png)
 
 ---
 
-## 🎥 Demo Video
-👉 [Watch full system demonstration](video.mp4)
+##  Demo Video
+ [Watch full system demonstration](video.mp4)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Open project in **TIA Portal**  
 2. Start **S7-PLCSIM**  
 3. Load Factory I/O scene  
@@ -95,4 +95,3 @@ Developed using **Siemens TIA Portal** and simulated in **Factory I/O**.
 5. Switch PLC to RUN mode  
 6. Start system from control panel  
 
----
